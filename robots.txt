@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahchifeiya.aulos.org/sitemap.xml
